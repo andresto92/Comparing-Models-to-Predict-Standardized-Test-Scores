@@ -1,0 +1,19 @@
+# Entorno de ejecución: Python 3.13.x
+# Manipulación, limpieza y almacenamiento de datos
+numpy>=2.0.0
+pandas>=2.2.0
+pyarrow>=18.0.0
+fastparquet>=2024.11.0
+
+# Aprendizaje automático y métricas de evaluación
+scikit-learn==1.6.1
+scipy>=1.14.0
+
+# Visualización analítica y exportación editorial
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# Entorno de notebooks y utilidades
+ipykernel>=6.29.0
+jupyterlab>=4.3.0
+tqdm>=4.67.0
